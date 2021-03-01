@@ -35,26 +35,14 @@ After the exercises execution, the user will acumulate some XP's and grow up the
 
 ## :movie_camera: Screenshots
   
-<p align="center">
+
   ![image](https://user-images.githubusercontent.com/62657321/109442205-4dea4500-7a16-11eb-9689-a2b2b306fbc9.png)
 
-</p>
-
-<p align="center">
   ![image](https://user-images.githubusercontent.com/62657321/109442301-91dd4a00-7a16-11eb-97cf-1bd9cc1d0263.png)
 
-</p>
+  ![image](https://user-images.githubusercontent.com/62657321/109442349-b89b8080-7a16-11eb-9c7b-b56379fc9534.png)
 
-<p align="center">
-![image](https://user-images.githubusercontent.com/62657321/109442349-b89b8080-7a16-11eb-9c7b-b56379fc9534.png)
-
-</P>
-
-<p align="center">
-![image](https://user-images.githubusercontent.com/62657321/109442391-d537b880-7a16-11eb-8593-d56d0bbc969f.png)
-
-
-</P>
+  ![image](https://user-images.githubusercontent.com/62657321/109442391-d537b880-7a16-11eb-8593-d56d0bbc969f.png)
 
 
 ## Getting Started

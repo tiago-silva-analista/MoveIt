@@ -1,4 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">  
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#anchor-structure">Structure</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#movie_camera-screenshots">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+# :house: Welcome to "Move It" Project!
+
+The project is an application to help people to remember to perform some exercises during your business day. It is a healthly tool.
+
+To see the result [click here](https://moveit-ten-lilac.vercel.app/).
+
+#React #ReactJS #nodeJS #NextJS #TypeScript
+
+## :rocket: Technologies
+
+This project was developed at the NLW - Next Level Week trainning based on the technologies:
+
+- [ReactJS](https://reactjs.org/)
+- [React-Native](https://reactnative.dev/)
+- [NodeJS](https://nodejs.org/en/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Verce](https://vercel.com)
+
+## :anchor: Structure
+
+We are using **ReactJS** to create a frontend application monitor and suggest some exercises during a break in the work day
+
+This kind of exercises are divided in two types: body and eyes.
+
+The exercises are suggesting after 25 minutes and the user can accept or ignore the exercise if the job can't be interrupted. 
+
+After the exercises execution, the user will acumulate some XP's and grow up the level.
+
+## :movie_camera: Screenshots
+  
+<p align="center">
+  ![image](https://user-images.githubusercontent.com/62657321/109442205-4dea4500-7a16-11eb-9689-a2b2b306fbc9.png)
+
+</p>
+
+<p align="center">
+  ![image](https://user-images.githubusercontent.com/62657321/109442301-91dd4a00-7a16-11eb-97cf-1bd9cc1d0263.png)
+
+</p>
+
+<p align="center">
+![image](https://user-images.githubusercontent.com/62657321/109442349-b89b8080-7a16-11eb-9c7b-b56379fc9534.png)
+
+</P>
+
+<p align="center">
+![image](https://user-images.githubusercontent.com/62657321/109442391-d537b880-7a16-11eb-8593-d56d0bbc969f.png)
+
+
+</P>
+
 
 ## Getting Started
 
@@ -12,23 +69,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

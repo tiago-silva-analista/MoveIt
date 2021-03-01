@@ -18,7 +18,6 @@ To see the result [click here](https://moveit-ten-lilac.vercel.app/).
 This project was developed at the NLW - Next Level Week trainning based on the technologies:
 
 - [ReactJS](https://reactjs.org/)
-- [React-Native](https://reactnative.dev/)
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Verce](https://vercel.com)

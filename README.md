@@ -43,8 +43,7 @@ After the exercises execution, the user will acumulate some XP's and grow up the
 
   ![image](https://user-images.githubusercontent.com/62657321/109442391-d537b880-7a16-11eb-8593-d56d0bbc969f.png)
 
-
-## Getting Started
+## :information_source: How-to-use
 Requirements:
 - NodeJS
 - Yarn

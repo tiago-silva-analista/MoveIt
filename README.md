@@ -45,8 +45,14 @@ After the exercises execution, the user will acumulate some XP's and grow up the
 
 
 ## Getting Started
+Requirements:
+- NodeJS
+- Yarn
 
-First, run the development server:
+First, run the commands below:
+- create a local folder to download the code and navigate to using the cmd.
+- git clone https://github.com/tiago-silva-analista/MoveIt.git
+- yarn (to install all dependencies.)
 
 ```bash
 npm run dev
